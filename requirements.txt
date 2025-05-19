@@ -1,0 +1,4 @@
+boto3
+python-dotenv  # For managing environment variables
+notebook       # For running Jupyter notebooks
+ipykernel      # For the Jupyter kernel in VS Code
